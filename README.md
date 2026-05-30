@@ -5,9 +5,9 @@ Answers one question: **when should your reps call which leads?**
 Loads your `contact_attempts` CSV, converts every timestamp to the lead's local timezone, computes connect and meeting rates per (day × hour) cell, masks cells with too few samples, and renders heatmaps segmented by industry and lead tier.
 
 ---
-![Connect Rate Heatmap](outputs/heatmap_connect_rate.png)
-![Meeting Rate Heatmap](outputs/heatmap_meeting_rate.png)
-![SaaS Connect Rate](outputs/heatmap_connect_rate_saas.png)
+![Connect Rate Heatmap](heatmap_connect_rate.png)
+![Meeting Rate Heatmap](heatmap_meeting_rate.png)
+![SaaS Connect Rate](heatmap_connect_rate_saas.png)
 ## Folder structure
 
 ```
