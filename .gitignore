@@ -2,6 +2,5 @@ venv/
 outputs/
 __pycache__/
 *.pyc
-*.png
 data/contact_attempts_synthetic.csv
 .env
